@@ -1,4 +1,4 @@
-👋 Hello, I'm Anurag Agarwal, a rising junior CS major at NJIT.
+👋 Hello, I'm Anurag Agarwal, a 4th year CS major at NJIT.
 
 🚀 Passionate about coding and technology, I'm on a journey to expand my knowledge and skills in the world of software development. I enjoy diving into various programming languages and exploring different domains of computer science.
 
