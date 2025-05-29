@@ -1,21 +1,62 @@
-👋 Hello, I'm Anurag Agarwal, a 4th year CS major at NJIT.
+# 👋 Hi, I'm Anurag Agarwal
 
-🚀 Passionate about coding and technology, I'm on a journey to expand my knowledge and skills in the world of software development. I enjoy diving into various programming languages and exploring different domains of computer science.
+🎓 Computer Science Graduate from NJIT  
+📍 Based in Jersey City, NJ | U.S. Citizen  
+📫 anuragamit35@gmail.com | [GitHub](https://github.com/aa2955)
 
-💡 With a curious mindset and a knack for problem-solving, I love tackling challenging projects and bringing innovative ideas to life. From web development to algorithms and data structures, I'm constantly seeking opportunities to grow as a developer and contribute to meaningful projects.
+---
 
-🌟 My GitHub repositories showcase my coding journey, including personal projects, open-source contributions, and experiments with cutting-edge technologies. Feel free to explore and collaborate!
+## 💻 About Me
 
-📚 Currently, I'm focused on honing my skills in frontend development, back-end frameworks, and cloud technologies. I'm also exploring areas like machine learning and artificial intelligence to broaden my horizons.
+I'm a full-stack developer with a strong interest in building intelligent, secure, and scalable applications. From AI-powered platforms to web dashboards and backend APIs, I enjoy designing systems that solve real-world problems and create meaningful user experiences.
 
-💬 Let's connect and collaborate! I'm always excited to engage in discussions, share knowledge, and work together to create impactful software solutions.
+I take pride in writing clean, maintainable code and continuously expanding my knowledge in areas like cloud computing, NLP, and cybersecurity. My development style is driven by curiosity, collaboration, and continuous improvement.
 
-📫 You can reach me via email at anuragamit35@gmail.com. I'm open to new opportunities, collaborations, and learning experiences.
+---
 
-🌈 Let's code, innovate, and make a positive impact on the world of technology together!
+## 🛠 Tech Highlights
 
+- **Frontend:** React.js, Next.js, HTML/CSS
+- **Backend:** FastAPI, Node.js (Express), Flask
+- **AI/ML:** Hugging Face Transformers, Pinecone, BERT, Semantic Search
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **DevOps:** AWS (Lambda, EC2, S3), Docker, GitHub Actions
+- **Security:** JWT, OAuth 2.0, Penetration Testing, IDS/IPS Systems
 
-<!---
-aa2955/aa2955 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 Featured Projects
+
+- **AI Resume Analyzer**  
+  Built an AI-powered platform that matches resumes to job descriptions using BERT embeddings and vector search. Deployed via AWS Lambda and integrated with Pinecone for real-time semantic scoring.
+
+- **Sponsor Approval Dashboard**  
+  Developed a full-stack approval system for academic sponsors using React, Flask, and PostgreSQL. Focused on security (RBAC, JWT) and UX.
+
+- **ChatOps Assistant**  
+  Created a Slack-integrated assistant that enables real-time cloud operations via secure chat commands.
+
+- **Cybersecurity Simulation Lab**  
+  Simulated full red-team/blue-team workflows using Kali Linux, Metasploit, Nmap, and Security Onion in a virtualized environment.
+
+---
+
+## 🌱 Currently Exploring
+
+- LLM Integration & Conversational AI  
+- Scalable System Design  
+- Real-time App Architecture (WebSockets, Event-Driven Systems)
+
+---
+
+## 🤝 Let’s Connect
+
+I'm open to full-time opportunities, freelance work, and collaboration on impactful projects.  
+Feel free to reach out or explore my repositories!
+
+📫 **Email:** anuragamit35@gmail.com  
+🔗 **GitHub:** [aa2955](https://github.com/aa2955)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
