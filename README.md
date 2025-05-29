@@ -56,6 +56,8 @@ Feel free to reach out or explore my repositories!
 
 📫 **Email:** anuragamit35@gmail.com  
 🔗 **GitHub:** [aa2955](https://github.com/aa2955)
+🔗 **LinkedIn:** [linkedin.com/in/anurag-agarwal-aa2955](https://www.linkedin.com/in/anurag-agarwal-aa2955)
+
 
 ---
 
