@@ -34,7 +34,7 @@ I take pride in writing clean, maintainable code and continuously expanding my k
   Developed a full-stack approval system for academic sponsors using React, Flask, and PostgreSQL. Focused on security (RBAC, JWT) and UX.
 
 - **BBT Global Dashboard**  
-  Created a full s
+  Built a serverless, full-stack analytics dashboard using React.js, AWS Lambda, and RDS PostgreSQL with real-time CSV ingestion and dynamic Recharts visualizations across cascading region–country–community filters.
 
 - **Cybersecurity Simulation Lab**  
   Simulated full red-team/blue-team workflows using Kali Linux, Metasploit, Nmap, and Security Onion in a virtualized environment.
