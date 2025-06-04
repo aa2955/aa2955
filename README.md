@@ -33,8 +33,8 @@ I take pride in writing clean, maintainable code and continuously expanding my k
 - **Sponsor Approval Dashboard**  
   Developed a full-stack approval system for academic sponsors using React, Flask, and PostgreSQL. Focused on security (RBAC, JWT) and UX.
 
-- **ChatOps Assistant**  
-  Created a Slack-integrated assistant that enables real-time cloud operations via secure chat commands.
+- **BBT Global Dashboard**  
+  Created a full s
 
 - **Cybersecurity Simulation Lab**  
   Simulated full red-team/blue-team workflows using Kali Linux, Metasploit, Nmap, and Security Onion in a virtualized environment.
